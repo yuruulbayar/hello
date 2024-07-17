@@ -18,14 +18,14 @@ footer h1{
 body {
     text-align: center;
 }
-div{
+ header{
     width: 100%;
     position: fixed;
     top: 0;
     background-color: white;
 
     margin: 0;
-}
+} 
 div h3{
     margin: 0%;
 }
@@ -60,17 +60,38 @@ body{
 }
 .jim{
     display: flex;
-    justify-content: space-between
+    justify-content: space-between;
+    align-items: center
+    
 ;
 }
 .heh{
-    height: 50px;
-    width: 50px;
+    height: 25px;
+    width: 25px;
+    margin-right: 10px;
+   
 }
 .useg{
     height: 120px;
     width: 150px;
 }
-.hehe{
-    background-color: aqua;
+.heart{
+    height: 25px;
+    width: 25px;
+    display: flex;
+    justify-content: end;
+}
+.shop{
+    height: 25px;
+    width: 25px;
+    display: flex;
+    justify-content: end;
+}
+.zuragnuud{
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+}
+.jord{
+    font-size: 100px;
 }
