@@ -1,0 +1,17 @@
+.ner{
+    height: 300px;
+    width: 300px;
+}
+.nas{
+    height: 300px;
+    width: 300px;
+}
+.max{
+    height: 300px;
+    width: 300px;
+}
+body{
+    font-family: "Baskervville SC", serif;
+  font-weight: 400;
+  font-style: normal;
+}

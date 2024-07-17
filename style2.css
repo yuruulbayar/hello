@@ -1,13 +1,10 @@
-header h1{
-    margin: 0;
-}
 main h4{
     margin: 0;
 }
 img{
-    border-radius: 30px;
-    height: 400px;
-    width: 98vw;
+    /* border-radius: 30px; */
+    height: 600px;
+    width: 100vw;
     border: 1px, black;
 }
 .container{
@@ -44,4 +41,36 @@ body{
 nav {
  text-align: center;
  padding: 10px 0;
+}
+div a{
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+}
+body{
+    font-family: "Ga Maamli", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.ner{font-size: 25px;}
+.ondor{
+    height: 50px;
+    width: 70px;
+}
+.jim{
+    display: flex;
+    justify-content: space-between
+;
+}
+.heh{
+    height: 50px;
+    width: 50px;
+}
+.useg{
+    height: 120px;
+    width: 150px;
+}
+.hehe{
+    background-color: aqua;
 }
