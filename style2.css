@@ -106,7 +106,7 @@ body {
   display: flex;
 }
 .hehehehe {
-  font-size: 50px;
+  font-size: 100px;
 }
 .hhh {
   width: 10vw;
@@ -180,4 +180,64 @@ body {
     width: 100vw;
     height: 100%;
   }
+  .hehehehe {
+    font-size: 50px;
+  }
+}
+.angi{
+  display: flex;
+  flex-direction: column;
+}
+.buleg{
+display: flex;
+justify-content: space-around;
+}
+.nike{
+  font-size: 100px;
+}
+.bi{
+  position: relative;
+}
+.bi .duu{
+  position: absolute;
+  bottom: 0px;
+  left: 8px;
+}
+.ha{
+  display: flex;
+  height: 600px;
+      width: 400px;
+      border-radius: 30px;
+}
+.hah{
+  display: flex;
+  height: 600px;
+      width: 400px;
+      border-radius: 30px;
+}
+.haha{
+  position: relative;
+}
+.hahah{
+  position: absolute;
+  bottom: 10px;
+  left: 8%;
+}
+.hahaha{
+  display: flex;
+  height: 600px;
+      width: 400px;
+      border-radius: 30px;
+}
+.hhah{
+  position: relative;
+}
+.hha{
+  position: absolute;
+  bottom: 10px;
+  left: 8%;
+}
+.gg{
+  display: flex;
+  justify-content: space-around;
 }
