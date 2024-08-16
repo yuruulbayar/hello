@@ -1,0 +1,9 @@
+body{
+    height: 30px;
+    width: 30px;
+  display: flex;
+}
+.head{
+    height: 30px;
+    width: 30px;
+}
